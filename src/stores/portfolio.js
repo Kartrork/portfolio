@@ -13,7 +13,7 @@ export const usePortfolioStore = defineStore('portfolio', {
     ],
     testimonials: [
       { quote: 'Great work on our project!', name: 'John Doe', role: 'Client' },
-      { quote: 'Rady is a skilled developer!', name: 'Jane Smith', role: 'Mentor' },
+      { quote: 'Kartrok is a skilled developer!', name: 'Jane Smith', role: 'Mentor' },
     ],
   }),
 });
