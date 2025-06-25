@@ -32,8 +32,8 @@
             <h4 class="text-lg font-semibold text-gray-900 mb-4">Quick Facts</h4>
             <ul class="text-gray-700 text-base space-y-2">
               <li><span class="font-medium">Location:</span> Phnom Penh, Cambodia</li>
-              <li><span class="font-medium">Education:</span> BS in Computer Science, University of Cambodia</li>
-              <li><span class="font-medium">Experience:</span> 3+ years in web development</li>
+              <li><span class="font-medium">Education:</span> PNC</li>
+              <li><span class="font-medium">Experience:</span> 2+ years in web development</li>
               <li><span class="font-medium">Passion:</span> Building user-focused, responsive web applications</li>
             </ul>
           </div>
