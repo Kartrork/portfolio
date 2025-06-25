@@ -34,7 +34,7 @@
             </a>
           </div>
           <p class="text-gray-400 text-base">
-            Email: <a href="mailto:info@yourcompany.com" class="text-gray-300 hover:text-white transition-colors duration-200 ease-in-out">info@yourcompany.com</a>
+            Email: <a href="mailto:info@yourcompany.com" class="text-gray-300 hover:text-white transition-colors duration-200 ease-in-out"> kartrork.thy@student.passerellesnumeriques.org</a>
           </p>
         </div>
       </div>

@@ -15,8 +15,8 @@
         <textarea class="w-full p-2 border rounded" rows="4"></textarea>
       </div>
       <button class="bg-blue-600 text-white p-3 rounded hover:bg-blue-700">Send Message</button>
-      <p>Email: rady@example.com</p>
-      <p>Phone: +855 123 456 789</p>
+      <p>Email: kartrork.thy@student.passerellesnumeriques.org</p>
+      <p>Phone: +855 884 757 694</p>
       <div class="flex space-x-4">
         <a href="https://linkedin.com" class="text-blue-600 hover:underline">LinkedIn</a>
         <a href="https://github.com" class="text-blue-600 hover:underline">GitHub</a>

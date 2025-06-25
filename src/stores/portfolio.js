@@ -9,7 +9,8 @@ export const usePortfolioStore = defineStore('portfolio', {
     services: [
       { name: 'Web Design', description: 'Creating visually appealing websites' },
       { name: 'Frontend Development', description: 'Building interactive UI with Vue.js' },
-      { name: 'SEO', description: 'Optimizing sites for search engines' },
+      { name: 'Deploy', description: 'Optimizing sites for search engines' },
+      { name: 'Personal Project', description: 'Build system check attendent' },
     ],
     testimonials: [
       { quote: 'Great work on our project!', name: 'John Doe', role: 'Client' },

@@ -71,21 +71,7 @@
       <div>
         <h3 class="text-2xl font-semibold text-blue-700 mb-6 text-center">My Journey</h3>
         <div class="space-y-6">
-          <div class="flex items-start">
-            <div class="bg-blue-600 w-4 h-4 rounded-full mt-1 mr-4"></div>
-            <div>
-              <h4 class="text-lg font-semibold text-gray-900">2019 - Started Coding</h4>
-              <p class="text-gray-600">Began my coding journey at the University of Cambodia, diving into HTML, CSS, and
-                JavaScript.</p>
-            </div>
-          </div>
-          <div class="flex items-start">
-            <div class="bg-blue-600 w-4 h-4 rounded-full mt-1 mr-4"></div>
-            <div>
-              <h4 class="text-lg font-semibold text-gray-900">2021 - Graduated with BS in Computer Science</h4>
-              <p class="text-gray-600">Earned my degree and started exploring frontend frameworks like Vue.js.</p>
-            </div>
-          </div>
+
           <div class="flex items-start">
             <div class="bg-blue-600 w-4 h-4 rounded-full mt-1 mr-4"></div>
             <div>
